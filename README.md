@@ -9,6 +9,6 @@ Tarea 1: Ejercicio Unix de la materia de bioinformática
 Si se ejecutaba la instrucción solo para las filas se obtenía el número que conteía el archivo n.txt pero si se ejecutaba a la vés con el código de las columnas se tenía dificultad para que apareciera su valor.
 
 ###
-
+El código tenía dificultades para ejercutarse porque tenís excesos de pipelines los cuales dificultan la lectura del código
 
 ###
