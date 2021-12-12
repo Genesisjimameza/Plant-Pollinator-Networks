@@ -11,3 +11,5 @@ mistxt='ls *.txt'
 for mistxt in n1.txt; do wc -l | echo "número de filas :" | head -n 1 n1.txt | tr -s " " "\n" | wc -l | echo "número de columnas :" $mistxt;
 done
 
+$ bash netsize.sh ../data/Saavedra2013/n1.txt
+número de columnas : n1.txt
