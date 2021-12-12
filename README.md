@@ -1,5 +1,5 @@
 # Plant-Pollinator-Networks
-Tarea 1: Ejercicio Unix de la materia de bioinformática 
+Tarea 1: Ejercicio Unix de la materia de bioinformática
 - Se creó un escript utilizando bash archivo.sh
 - La línea de código necesitó crear una variable previamente mistxt='ls *.txt' para relacionar:
 	- El número de filas (polinizadores) y columnas (plantas)
@@ -9,6 +9,6 @@ Tarea 1: Ejercicio Unix de la materia de bioinformática
 Si se ejecutaba la instrucción solo para las filas se obtenía el número que conteía el archivo n.txt pero si se ejecutaba a la vés con el código de las columnas se tenía dificultad para que apareciera su valor.
 
 ###
-El código tenía dificultades para ejercutarse porque tenís excesos de pipelines los cuales dificultan la lectura del código
+El código tenía dificultades para ejercutarse porque tenía excesos de pipelines los cuales dificultaban la lectura del código y no arrojaban los valores del numero total de columnas y filas.
 
 ###
