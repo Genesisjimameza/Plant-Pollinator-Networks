@@ -10,5 +10,5 @@ Si se ejecutaba la instrucción solo para las filas se obtenía el número que c
 
 ###
 El código tenía dificultades para ejercutarse porque tenía excesos de pipelines los cuales dificultaban la lectura del código y no arrojaban los valores del numero total de columnas y filas.
-
+El script fue hecho en entorno nano de git bash y ejecutado directamente como se muestra en las instrucciones de la tarea.
 ###
