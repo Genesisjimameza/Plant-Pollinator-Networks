@@ -2,7 +2,13 @@
 Tarea 1: Ejercicio Unix de la materia de bioinformática 
 - Se creó un escript utilizando bash archivo.sh
 - La línea de código necesitó crear una variable previamente mistxt='ls *.txt' para relacionar:
-	- El número de filas y columnas.
+	- El número de filas (polinizadores) y columnas (plantas)
 - Individualmente, el número de filas en cada archivo n.txt se contabilizó con 'wc -l'
-- En las columnas se necesitó quitar el encabezado, borrar los espacios y contabilizar con 'wc -l' unids con pipelines.
+- En el conteo de las columnas se necesitó escribir un código que quite el encabezado, borre los espacios y contabilise todas las columnas con 'wc -l' y cada instrucción fue unida con pipelines.
+- El principal comando para escribir la instrucción fue **for;do;done**
+Si se ejecutaba la instrucción solo para las filas se obtenía el número que conteía el archivo n.txt pero si se ejecutaba a la vés con el código de las columnas se tenía dificultad para que apareciera su valor.
 
+###
+
+
+###
